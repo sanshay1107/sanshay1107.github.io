@@ -4,8 +4,8 @@ const gif = document.querySelector(".gif")
 const yesBtn = document.querySelector(".yes-btn")
 const noBtn = document.querySelector(".no-btn")
 
-const TOKEN = "ISI_TOKEN_BOT";
-const CHAT_ID = "ISI_CHAT_ID";
+const TOKEN = "8653683189:AAHmNeyAy1bZDiyTgY2bMwJlTj_JFW6oG0w";
+const CHAT_ID = "8789321322";
 
 function kirimNotif(pesan) {
   fetch(`https://api.telegram.org/bot${TOKEN}/sendMessage`, {
