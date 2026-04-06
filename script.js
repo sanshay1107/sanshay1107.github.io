@@ -4,7 +4,7 @@ const gif = document.querySelector(".gif")
 const yesBtn = document.querySelector(".yes-btn")
 const noBtn = document.querySelector(".no-btn")
 
-const TOKEN = "8345976218:AAGJnqgkb4XJvtWxMS155moEgbF-DSIe1rc";
+const TOKEN = "8345976218:AAFTZlKDUa0gB5JIuE3FbVu_Aa9rb0Sk934";
 const CHAT_ID = "8789321322";
 
 function kirimNotif(pesan) {
